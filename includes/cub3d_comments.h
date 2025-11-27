@@ -18,7 +18,7 @@
 # include <math.h>
 # include <fcntl.h>
 # include <stdio.h>
-# include <stdbool.h>				// because i love booleans (true/false)
+# include <stdbool.h>				
 # include <strings.h>
 # include "../lib/libft/libft.h"
 # include "../lib/minilibx/mlx.h"
